@@ -1,0 +1,20 @@
+*{
+  color: #ffffff;
+}
+body {
+  background-color: #334762;
+}
+
+.main {
+  font-family: 'Questrial', sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.main img {
+  margin-top: 3%;
+}
+
+header img {
+  margin-left: 5%;
+}
